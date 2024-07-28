@@ -5,4 +5,4 @@
 
 ### 1) Creating a Large Language Model from Scratch with Python - [Tutorial](https://www.youtube.com/watch?v=UU1WVnMk4E8&t=18596s)
 
-### 2) Typescript in React - [Tutorial](https://youtu.be/TPACABQTHvM?si=9aUJtsHjsBTnDhRe) 
+### 2) Typescript in React - [Crash Course ](https://youtu.be/TPACABQTHvM?si=9aUJtsHjsBTnDhRe) 
