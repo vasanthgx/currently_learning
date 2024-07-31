@@ -5,4 +5,6 @@
 
 ### 1) Creating a Large Language Model from Scratch with Python - [Tutorial](https://www.youtube.com/watch?v=UU1WVnMk4E8&t=18596s)
 
-### 2) Typescript in React - [Crash Course ](https://youtu.be/TPACABQTHvM?si=9aUJtsHjsBTnDhRe) 
+### 2) Typescript in React - [Crash Course ](https://youtube/TPACABQTHvM?si=9aUJtsHjsBTnDhRe) 
+
+### 3) React Hook Forms - [Complete Guide for React Hook Forms](https://www.youtube.com/watch?v=RkXv4AXXC_4&list=PL03g4H_exuTppOgtY-45oWvN79rvJIKzf)
