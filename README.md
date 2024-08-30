@@ -8,3 +8,5 @@
 ### 2) Typescript in React - [Crash Course ](https://youtu.be/TPACABQTHvM?si=9aUJtsHjsBTnDhRe) 
 
 ### 3) React Hook Forms - [Complete Guide for React Hook Forms](https://www.youtube.com/watch?v=RkXv4AXXC_4&list=PL03g4H_exuTppOgtY-45oWvN79rvJIKzf)
+
+### 4) Solana Bootcamp - [Solana Development](https://youtu.be/0P8JeL3TURU?si=6LAezd6xM_ulX0qW) 
